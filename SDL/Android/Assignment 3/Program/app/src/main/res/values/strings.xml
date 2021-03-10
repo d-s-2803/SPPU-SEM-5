@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assignment3</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="back">Back</string>
+</resources>
